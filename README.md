@@ -6,4 +6,5 @@ Processing the dataset provided by [GRID Esports Datajam 23](https://grid-esport
 Further steps include training the data to build ML models using linear regression. 
 
 ## Champions with the highest KDA 
+KDA (kill death assist) is calculated using the equation $(kill+assist)/death$
 ![KDA table](kda.png)
